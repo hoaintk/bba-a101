@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <Name>Nguyen Van A</Name>
+    <Age>20</Age>
+    <Major>Computer Science</Major>
+    <GPA>3.7</GPA>
+    <Courses>
+        <Course>Programming Fundamentals</Course>
+        <Course>Data Structures</Course>
+        <Course>Web Development</Course>
+    </Courses>
+</Student>
