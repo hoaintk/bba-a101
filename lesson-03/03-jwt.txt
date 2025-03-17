@@ -1,0 +1,2 @@
+// Thực hành JWT
+{"alg":"HS256","typ":"JWT"}{"sub":"70080aa3-5561-4f5b-9dae-24ab570b7421","email":"dominhphong306X[[HH\Y\]MMMLLI^MMMLL_@oiDM+1e(޿SU
