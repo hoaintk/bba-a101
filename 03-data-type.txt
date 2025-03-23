@@ -1,0 +1,31 @@
+//json
+{
+  "hanhTinh": {
+    "ten": "Kepler-22b",
+    "khoangCachToiTraiDat": 587,
+    "coTheSinhSong": true,
+    "quocGiaDatChanToi": [
+      "Việt Nam",
+      "Campuchia",
+      "Thái Lan"
+    ]
+  }
+}
+
+//XML
+<hanhTinh>
+  <ten>Kepler-22b</ten>
+  <khoangCachToiTraiDat>587</khoangCachToiTraiDat>
+  <coTheSinhSong>có</coTheSinhSong>
+  <quocGiaDatChanToi>
+    <quocGia>Việt Nam</quocGia>
+    <quocGia>Campuchia</quocGia>
+    <quocGia>Thái Lan</quocGia>
+  </quocGiaDatChanToi>
+</hanhTinh>
+
+// Giải thích ngắn gọn: tại sao JSON lại tối ưu hơn XML 
+1. JSON gọn gàng, dễ đọc hơn XML.
+2. Xử lý nhanh hơn.
+3. Kích thước nhỏ hơn.
+Tóm lại: JSON nhanh, gọn, dễ dùng hơn XML.

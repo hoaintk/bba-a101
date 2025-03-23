@@ -1,0 +1,33 @@
+{
+	"id": "76f849d4-4fc2-4c09-ac7b-f214cf14124a",
+	"name": "bblib-dev",
+	"values": [
+		{
+			"key": "username",
+			"value": "admin@betterbytesvn.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "123@123A",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "https://bblib-dev-api.betterbytesvn.cloud/v2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-03-23T05:23:04.763Z",
+	"_postman_exported_using": "Postman/11.35.3"
+}
